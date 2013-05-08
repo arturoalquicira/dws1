@@ -21,7 +21,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="element_definitions.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Wk 1 Assignment Part A: Intro to HTML/element_definitions.html">
+        <entry file="file://$PROJECT_DIR$/wk1AssignmentPartA/element_definitions.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="36" column="8" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.75253254">
               <folding />
@@ -97,7 +97,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Wk 1 Self-Assessment Activity: Text and List" />
+              <option name="myItemId" value="wk1SelfAssessmentActivity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -111,7 +111,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Wk 1 Assignment Part A: Intro to HTML" />
+              <option name="myItemId" value="wk1AssignmentPartA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -218,24 +218,24 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Wk 1 Assignment Part A: Intro to HTML/element_definitions.html">
+    <entry file="file://$PROJECT_DIR$/wk1AssignmentPartA/element_definitions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="8" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk 1 Self-Assessment Activity: Text and List/text.html">
+    <entry file="file://$PROJECT_DIR$/wk1SelfAssessmentActivity/text.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk 1 Self-Assessment Activity: Text and List/lists.html">
+    <entry file="file://$PROJECT_DIR$/wk1SelfAssessmentActivity/lists.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="4" selection-start="44" selection-end="66" vertical-scroll-proportion="-2.28" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wk 1 Assignment Part A: Intro to HTML/element_definitions.html">
+    <entry file="file://$PROJECT_DIR$/wk1AssignmentPartA/element_definitions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="8" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.75253254">
           <folding />
