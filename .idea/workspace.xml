@@ -20,10 +20,37 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="element_definitions.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="recipe_fix.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wk1AssignmentPartBValidation/recipe_fix.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="8" selection-start="764" selection-end="764" vertical-scroll-proportion="0.7149059">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="element_definitions.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wk1AssignmentPartA/element_definitions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="8" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.75253254">
+            <state line="68" column="0" selection-start="3622" selection-end="3622" vertical-scroll-proportion="-25.6">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lists.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wk1SelfAssessmentActivity/lists.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="0" selection-start="1513" selection-end="1513" vertical-scroll-proportion="-24.32">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wk1SelfAssessmentActivity/text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="0" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-25.08">
               <folding />
             </state>
           </provider>
@@ -44,6 +71,11 @@
         <option value="$PROJECT_DIR$/Self-Assessment Activity: Text and List/lists.html" />
         <option value="$PROJECT_DIR$/Wk 1 Assignment Part A: Intro to HTML/index.html" />
         <option value="$PROJECT_DIR$/Wk 1 Assignment Part A: Intro to HTML/element_definitions.html" />
+        <option value="$USER_HOME$/Downloads/html_recipe.html" />
+        <option value="$PROJECT_DIR$/wk1SelfAssessmentActivity/text.html" />
+        <option value="$PROJECT_DIR$/wk1SelfAssessmentActivity/lists.html" />
+        <option value="$PROJECT_DIR$/wk1AssignmentPartA/element_definitions.html" />
+        <option value="$PROJECT_DIR$/wk1AssignmentPartBValidation/recipe_fix.html" />
       </list>
     </option>
   </component>
@@ -111,6 +143,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="wk1AssignmentPartBValidation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dws" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dws1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="wk1AssignmentPartA" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -145,12 +191,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="22" y="22" width="1414" height="864" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24442847" sideWeight="0.9550562" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24442847" sideWeight="0.9550562" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -225,19 +271,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/html_recipe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="303" selection-end="602" vertical-scroll-proportion="-14.44">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wk1SelfAssessmentActivity/text.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="33" column="0" selection-start="1663" selection-end="1663" vertical-scroll-proportion="-25.08">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk1SelfAssessmentActivity/lists.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="44" selection-end="66" vertical-scroll-proportion="-2.28" />
+        <state line="32" column="0" selection-start="1513" selection-end="1513" vertical-scroll-proportion="-24.32">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wk1AssignmentPartA/element_definitions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="8" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.75253254">
+        <state line="68" column="0" selection-start="3622" selection-end="3622" vertical-scroll-proportion="-25.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wk1AssignmentPartBValidation/recipe_fix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="8" selection-start="764" selection-end="764" vertical-scroll-proportion="0.7149059">
           <folding />
         </state>
       </provider>
