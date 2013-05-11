@@ -1,0 +1,10 @@
+body{
+    font: normal 80%/18px Arial, Helvetica, sans-serif;
+    color: #696969;
+    background: #F0ECD6;
+}
+
+h1, h2{
+    font: traditional;
+    color: black;
+}
