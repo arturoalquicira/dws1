@@ -1,0 +1,43 @@
+/**Body: The background color was taken from http://colorschemedesigner.com**/
+body {
+    background: #066A7E;
+}
+
+/**Headers: All headers have different opacity
+    Source: http://meyerweb.com, http://kuleradobe.com**/
+h1 {
+    background: DarkCyan;
+    color: #2f4f4f;
+}
+
+h2 {
+    background: hsl(210,12.6%,50.2%);
+    color: #f5f5f5;
+}
+
+h3 {
+    background: hsla(210,12.6%,50.2%, 0.75);
+    color: #f5f5f5;
+}
+
+h4 {
+    background: hsla(210,12.6%,50.2%,0.40);
+    color: #f5f5f5;
+}
+
+/*****Paragraphs: The background color was taken from http://colorschemedesigner.com *****/
+p {
+    background: rgba(97, 173, 154,0.50);
+}
+
+#source, #intro{
+    background: none;
+}
+
+#content {
+    background: rgb(5, 170, 202);
+    opacity: 0.60;
+}
+
+
+
