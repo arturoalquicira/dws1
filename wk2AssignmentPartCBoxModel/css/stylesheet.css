@@ -20,7 +20,7 @@ body {
 
 #nav-bar li{
     display: inline-block;
-    margin: 0 50px;
+    margin: 0 4%;
     border-width: 0 1px;
     border-bottom-color: #2f4f4f;
     border-style: solid;
@@ -41,7 +41,7 @@ ul{
     list-style-type: disc;
 }
 
-#intro, #source{
+#intro{
     color: #F2EFF4;
     margin: 20px;
 }
@@ -52,11 +52,16 @@ ul{
     border-bottom-color: #2f4f4f;
     border-style: solid;
     border-radius: 0 10px 0 0;
-    margin: 0 20px;
+    margin: 0 50px 50px 50px;
 }
 
 #summary p{
-    margin: 20px;
+    margin: 0 20px 5px 20px;
+}
+
+.backbtn{
+    text-align: right;
+    margin: 0 2px 2px 2px;
 }
 
 /**Headers: All headers have different opacity
@@ -91,10 +96,12 @@ h4 {
 }
 
 #source {
+    color: #F2EFF4;
     background: none;
     font-style: italic;
     background: #FF8674;
     opacity: 0.90;
+    margin: 0 20px 20px;
 }
 
 /*Links Visited*/

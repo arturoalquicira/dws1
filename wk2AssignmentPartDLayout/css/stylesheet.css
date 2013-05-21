@@ -2,10 +2,12 @@
 body {
     background: #4A5154;
     font-family: 'InconsolataMedium', "Lucida Console", Monaco, monospace;
-    font-size: 13px;
-    letter-spacing:0.05em;
+    font-size: 0.813em;
+    letter-spacing: 0.05em;
     line-height: 1.40;
 }
+
+/****Top & Nav Bar****/
 
 #top{
     background: #F77564;
@@ -20,7 +22,7 @@ body {
 
 #nav-bar li{
     display: inline-block;
-    margin: 0 50px;
+    margin: 0 4%;
     border-width: 0 1px;
     border-bottom-color: #2f4f4f;
     border-style: solid;
@@ -41,24 +43,46 @@ ul{
     list-style-type: disc;
 }
 
-#intro, #source{
+#intro{
     color: #F2EFF4;
     margin: 20px;
 }
 
+/*** Columns ***/
+
+#columnBox{
+    background: #F2EFF4;
+    overflow: auto;
+    margin: 5px 270px;
+    padding: 5px;
+}
+
+.columns{
+    background: #008b8b;
+    width: 250px;
+    float: left;
+    margin: 5px 8px 5px 5px;
+    padding: 10px;
+}
+
+/*** Summary ***/
+
 #summary {
     background: #F2EFF4;
-    width: 1300px;
     border-width: 1px 4px 3px 1px;
     border-bottom-color: #2f4f4f;
     border-style: solid;
     border-radius: 0 10px 0 0;
-    margin: auto;
-
+    margin: 10px 50px 50px 50px;
 }
 
 #summary p{
-    margin: 20px;
+    margin: 20px 5px 20px;
+}
+
+.backbtn{
+    text-align: right;
+    margin: 0 2px 2px 2px;
 }
 
 /**Headers: All headers have different opacity
@@ -66,7 +90,7 @@ ul{
 h1 {
     color: #f5f5f5;
     font-family: 'Lobster', cursive;
-    font-size: 40px;
+    font-size: 2.500em;
     margin: 50px;
 }
 
@@ -93,10 +117,12 @@ h4 {
 }
 
 #source {
+    color: #F2EFF4;
     background: none;
     font-style: italic;
     background: #FF8674;
     opacity: 0.90;
+    margin: 0 20px 20px;
 }
 
 /*Links Visited*/
@@ -118,7 +144,6 @@ a:active{
     color: #4169e1;
 }
 
-/*Style lists*/
 
 
 
