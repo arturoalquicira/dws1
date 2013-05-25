@@ -33,14 +33,14 @@ nav li{
     border-bottom-color: #2f4f4f;
     border-style: solid;
 }
-
+/***********Wrapper*************/
 #wrapper{
     width: 1040px;
     margin: 0 auto;
 }
 
 
-#content-tab{
+.content{
     /*background: #F79364*/
     background: #d24b5a; /* Old browsers */
     background: #d24b5a; /* Old browsers */
@@ -61,9 +61,9 @@ nav li{
     position: fixed;
 }
 
-/*** Columns ***/
+/*** Aside ***/
 
-#columnBox{
+.column{
     background: #F2EFF4 url("../images/pattern_121.gif") repeat;
     float: left;
     width: 250px;
@@ -80,9 +80,9 @@ nav li{
     border-radius: 0 5px 0 0;
 }
 
-/*** Summary ***/
+/*** Section ***/
 
-#summary {
+section {
     background: #F2EFF4;
     border-width: 1px 4px 3px 1px;
     border-bottom-color: #2f4f4f;
@@ -131,13 +131,19 @@ h4 {
 
 }
 
-#source {
+footer {
     color: #F2EFF4;
     background: none;
     font-style: italic;
     background: #FF8674;
     opacity: 0.90;
-    margin: 5px 20px;
+    border-radius: 10px 10px 0 0;
+    width: 1040px;
+    height: 50px;
+    margin: 0 auto;
+    padding-top: 10px;
+    clear: both;
+    text-align: center;
 }
 
 /*Links Visited*/
@@ -204,10 +210,30 @@ a#vimeoicon:active{
     background-position: -195px 385px;
 }
 
+/*******Table********/
+
+table{
+    width: 300px;
+    margin: 2px auto;
+}
+
+th {
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    border-top: 1px solid #808080;
+    text-align: left;
+}
+
+tr.even{
+    background: #ffebcd;
+}
+
+tr:hover{
+    background: #808080;
+}
 
 
 
 
 
 
-                                                
