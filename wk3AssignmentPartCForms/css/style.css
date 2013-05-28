@@ -1,0 +1,293 @@
+/**Body: The background color was taken from http://colorschemedesigner.com**/
+body {
+    background: #4A5154;
+    background-image: url("../images/slideshow1.gif");
+    background-repeat: repeat;
+    font-family: 'InconsolataMedium', "Lucida Console", Monaco, monospace;
+    font-size: 0.813em;
+    letter-spacing: 0.05em;
+    line-height: 1.40em;
+    /*width: 1040px;*/
+    width: 100%;
+    margin: 0 auto;
+}
+
+/****Top & Nav Bar****/
+
+header{
+    background: #F77564;
+    width: 1040px;
+    margin: 5px auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+nav{
+    text-align: center;
+}
+
+nav li{
+    display: inline-block;
+    margin: 0 25px;
+    border-width: 0 1px;
+    border-bottom-color: #2f4f4f;
+    border-style: solid;
+}
+/***********Wrapper*************/
+#wrapper{
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.content{
+    background:#F2EFF4 url("../images/pattern_121.gif") repeat;
+    border-width: 1px 4px 3px 1px;
+    border-bottom-color: #2f4f4f;
+    border-style: solid;
+    border-radius: 0 10px 0 0;
+    padding: 1px;
+    width: 180px;
+    margin-top: 15px;
+    float: left;
+    position: fixed;
+}
+
+#content-list{
+    background: #008b8b;
+    width: 135px;
+    border-radius: 10px;
+}
+
+/*** Aside ***/
+
+.column{
+    background: #F2EFF4 url("../images/pattern_121.gif") repeat;
+    float: left;
+    width: 250px;
+    margin: 15px 0 10px 25px;
+    border-radius: 0 10px 0 0;
+}
+
+.columns {
+    background: #008b8b;
+    width: 210px;
+    margin: 10px;
+    margin-left: 15px;
+    padding: 5px;
+    border-radius: 0 5px 0 0;
+}
+
+/*** Section ***/
+
+section {
+    background: #F2EFF4;
+    border-width: 1px 4px 3px 1px;
+    border-bottom-color: #2f4f4f;
+    border-style: solid;
+    border-radius: 0 10px 0 0;
+    width: 500px;
+    padding: 20px;
+    padding-bottom: 0;
+    margin: 15px 0 15px 200px ;
+    float: left;
+}
+
+.backbtn {
+    text-align: right;
+    margin: 0 2px 2px 2px;
+}
+
+/**Headers: All headers have different opacity
+    Source: http://meyerweb.com, http://kuleradobe.com**/
+h1 {
+    color: #f5f5f5;
+    font-family: 'Lobster', cursive;
+    font-size: 2.500em;
+    margin: 30px 20px;
+}
+
+h2 {
+    color: #4A5154;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    margin: 10px;
+}
+
+h3 {
+    color: #4A5154;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    margin: 10px;
+}
+
+h4 {
+    color: #4A5154;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+footer {
+    color: #F2EFF4;
+    background: none;
+    font-style: italic;
+    background: #FF8674;
+    opacity: 0.90;
+    border-radius: 10px 10px 0 0;
+    width: 1040px;
+    height: 50px;
+    margin: 0 auto;
+    padding-top: 10px;
+    clear: both;
+    text-align: center;
+}
+
+/*Links Visited*/
+
+a:link{
+    color: black;
+}
+
+a:visited{
+    color: black;
+}
+
+a:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+a:active{
+    color: yellow;
+}
+
+/* Media Icons */
+
+#mediaicons{
+    float: left;
+    margin-left: 50px;
+    height: 74px;
+    width: 202px;
+}
+
+a.button{
+    color: black;
+    background-image: url("../images/css-sprite-example.png");
+    height: 74px;
+    text-indent: -9999px;
+    display: inline-block;
+}
+
+a#twittericon{
+    width: 73px;
+    background-position: 0 0;
+    margin-right: 1px;
+}
+
+a#vimeoicon{
+    width: 110px;
+    background-position: -195px 0;
+    margin-left: 1px;
+}
+
+a#twittericon:hover{
+    background-position: 0 -157px;
+}
+
+a#vimeoicon:hover{
+    background-position: -195px -157px;
+}
+
+a#twittericon:active{
+    background-position: 0 385px;
+}
+
+a#vimeoicon:active{
+    background-position: -195px 385px;
+}
+
+/*******Table********/
+
+table{
+    width: 300px;
+    margin: 2px auto;
+}
+
+th {
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+    border-top: 1px solid #808080;
+    text-align: left;
+}
+
+tr.even{
+    background: #ffebcd;
+}
+
+tr:hover{
+    background: #808080;
+}
+
+/******Forms*******/
+
+#searchbox{
+    text-align: right;
+    width: 250px;
+    margin-left: 770px;
+}
+
+.search{
+    color: black;
+    background: #fa8072;
+    border-radius: 10px;
+    border: 5px;
+}
+
+.search:hover{
+    color: white;
+    background: #e9967a;
+    border-radius: 10px;
+    border: 5px;
+}
+
+
+#newsletter-box{
+    background: #008b8b;
+    width: 210px;
+    height: 50px;
+    margin: 10px;
+    margin-left: 15px;
+    padding: 5px;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    color: #fff5ee;
+    border-radius: 10px;
+}
+
+#email{
+    width: 130px;
+    margin-top: 10px;
+}
+
+.submit{
+    color: black;
+    background: #fa8072;
+    border-radius: 10px;
+    border: 5px;
+
+}
+
+.submit:hover{
+    color: white;
+    background: #e9967a;
+    border-radius: 10px;
+    border: 5px;
+}
+
+#form-box{
+    background: #f5deb3;
+    width: 400px;
+    margin: 30px auto;
+}
+

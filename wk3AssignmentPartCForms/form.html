@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <title>Forms</title>
+</head>
+<body>
+<div id="form-box">
+<fieldset id="student-contact">
+    <legend>Student Contact Details</legend>
+    <form action="" method="post">
+    <label>Name:<br />
+            <input type="text" name="name" placeholder="Name" required="required"/></label><br />
+            <label>Last Name:<br />
+            <input type="text" name="last-name" placeholder="Last Name" required="required"></label><br />
+            <label>Email:<br />
+            <input type="email" name="email" placeholder="example@example.com"/></label><br />
+            <label>Mobile:<br />
+            <input type="text" name="mobile" placeholder="000-0000-0000"/></label><br />
+            <label>Student ID:<br />
+            <input type="text" name="telephone" placeholder="0000-0000"/></label><br />
+            <label>Age:<br />
+            <input type="text" name="age" /></label><br/>
+    <fieldset id="gender">
+            <legend>Gender:</legend>
+                <input id="female" type="radio" name="gender" value="f">
+                <label for="female">Female</label><br />
+                <input id="male" type="radio" name="gender" value="m">
+                <label for="male">Male</label>
+    </fieldset>
+    <fieldset id="heard-about-us">
+            <legend>How Did You Hear About Us?</legend>
+                <input type="checkbox" name="service" value="Vans" id="vans" checked="checked" /> <label for="vans">Vans</label>
+                <input type="checkbox" name="service" value="Vice" id="vice"/> <label for="vice">Vice</label>
+                <input type="checkbox" name="service" value="8106" id="8106"/> <label for="8106">8106</label>
+    </fieldset>
+    <fieldset id="board-user-likes">
+        <legend>What board did you like?</legend>
+        <select name="boards">
+        <option value="pintail">Pintail</option>
+        <option value="cruiser">Cruiser</option>
+        <option value="hybrid">Hybrid</option>
+    </select>
+    </fieldset>
+    <input type="submit" value="submit" class="submit">
+    </form>
+</fieldset>
+</div>
+</body>
+</html>
